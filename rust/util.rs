@@ -1,5 +1,3 @@
-//mod util;
-
 use std::fs;
 
 pub fn read_lines(file_name: &str) -> Vec<String> {
